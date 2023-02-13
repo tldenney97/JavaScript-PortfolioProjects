@@ -1,0 +1,12 @@
+type: code
+files:
+- name: main.js
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/24025#comment
+status: Failed
+feedback:
+  message: |
+    Failed. Wrong answer
+  time: "Fri, 10 Feb 2023 12:25:41 UTC"
+record: -1

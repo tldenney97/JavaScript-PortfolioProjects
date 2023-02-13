@@ -1,0 +1,1 @@
+let data = [11, null, NaN, 'Hello', 24]

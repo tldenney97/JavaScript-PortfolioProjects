@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: three
+- text: two
+- text: infinite
+- text: one
+files:
+- name: main.js
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8457#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 13 Feb 2023 10:51:50 UTC"
+record: -1
+selected_options:
+- 1
+local_check: false

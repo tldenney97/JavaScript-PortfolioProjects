@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: "let difference = (a, b) { return =&gt; a - b; };"
+- text: "let difference = (a, b) =&gt; a - b;"
+- text: "let difference = (a, b) =&gt; { return a - b; };"
+- text: "let difference =&gt; (a, b) = a - b;"
+files:
+- name: main.js
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10718#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 13 Feb 2023 10:51:06 UTC"
+record: -1
+selected_options:
+- 0
+- 3
+local_check: false

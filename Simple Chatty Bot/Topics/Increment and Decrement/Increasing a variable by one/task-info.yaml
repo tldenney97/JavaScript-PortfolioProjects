@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: n++
+- text: +n
+- text: n+
+- text: ++n
+files:
+- name: main.js
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9103#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 10 Feb 2023 10:57:47 UTC"
+record: -1
+selected_options:
+- 0
+- 3
+local_check: false
